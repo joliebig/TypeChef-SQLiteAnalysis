@@ -1,0 +1,13 @@
+Could not load BDD package buddy: Can't load library: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/libbuddy.so
+True	succeeded
+
+type checking.
+  - E [True] file sqlite3.c:45549:8--file sqlite3.c:45550:8
+	incorrect assignment with CIgnore() = CObj(CSigned(CInt()))
+  - E [True] file sqlite3.c:167061:6--file sqlite3.c:167062:6
+	incorrect assignment with CIgnore() = CObj(CStruct(sqlite3_mutex_methods,false))
+  - E [True] file sqlite3.c:167073:6--file sqlite3.c:167074:6
+	incorrect assignment with CIgnore() = CObj(CStruct(sqlite3_mem_methods,false))
+  - E [True] file sqlite3.c:167115:6--file sqlite3.c:167116:6
+	incorrect assignment with CIgnore() = CObj(CStruct(sqlite3_pcache_methods2,false))
+Found 4 type errors: 
