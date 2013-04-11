@@ -11,3 +11,4 @@ type checking.
   - E [True] file sqlite3.c:167115:6--file sqlite3.c:167116:6
 	incorrect assignment with CIgnore() = CObj(CStruct(sqlite3_pcache_methods2,false))
 Found 4 type errors: 
+CFGDump written to (sqlite3.dot)

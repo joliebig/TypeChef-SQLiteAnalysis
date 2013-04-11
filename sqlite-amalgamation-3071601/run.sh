@@ -27,6 +27,7 @@ outTime="$outBase.time"
 	--include $ABSPATH/partial_configuration.h \
 	--writePI \
 	--typecheck \
+	--dumpcfg \
 	$FNAME \
 	2> "$outErr" | tee "$outDbg"
 

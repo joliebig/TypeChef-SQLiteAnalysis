@@ -1,288 +1,288 @@
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:1:2: warning: Unknown preprocessor directive lexer, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:1:2: warning: Unknown preprocessor directive lexer, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:2:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:2:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:6:2: warning: Unknown preprocessor directive lexer, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:6:2: warning: Unknown preprocessor directive lexer, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:7:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:7:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:10:2: warning: Unknown preprocessor directive lexer, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:10:2: warning: Unknown preprocessor directive lexer, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:11:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:11:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:14:2: warning: Unknown preprocessor directive lexer, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:14:2: warning: Unknown preprocessor directive lexer, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:15:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:15:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:19:2: warning: Unknown preprocessor directive lexer, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:19:2: warning: Unknown preprocessor directive lexer, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:20:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:20:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:24:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:24:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:25:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:25:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:30:2: warning: Unknown preprocessor directive related, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:30:2: warning: Unknown preprocessor directive related, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:35:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:35:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:36:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:36:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:39:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:39:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:40:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:40:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:44:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:44:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:45:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:45:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:49:2: warning: Unknown preprocessor directive several, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:49:2: warning: Unknown preprocessor directive several, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:52:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:52:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:53:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:53:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:56:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:56:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:57:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:57:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:61:2: warning: Unknown preprocessor directive several, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:61:2: warning: Unknown preprocessor directive several, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:62:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:62:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:65:2: warning: Unknown preprocessor directive several, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:65:2: warning: Unknown preprocessor directive several, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:66:2: warning: Unknown preprocessor directive incorrect, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:66:2: warning: Unknown preprocessor directive incorrect, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:67:2: warning: Unknown preprocessor directive Constant, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:67:2: warning: Unknown preprocessor directive Constant, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:68:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:68:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:71:2: warning: Unknown preprocessor directive several, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:71:2: warning: Unknown preprocessor directive several, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:72:2: warning: Unknown preprocessor directive incorrect, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:72:2: warning: Unknown preprocessor directive incorrect, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:73:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:73:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:76:2: warning: Unknown preprocessor directive optional, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:76:2: warning: Unknown preprocessor directive optional, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:79:2: warning: Unknown preprocessor directive configuration, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:79:2: warning: Unknown preprocessor directive configuration, skipping line
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:410:4: warning: expecting value before token, found boolean expression True instead
 sqlite3.c:410:4: warning: expecting value before token, found boolean expression True instead
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:419:4: warning: expecting value before token, found boolean expression True instead
 sqlite3.c:419:4: warning: expecting value before token, found boolean expression True instead
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:41 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:23 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:42 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:24 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:9527:25: warning: inline expansion of macro SQLITE_OS_WINRT is not exaustive. assuming 0 for SQLITE_OS_WINRT
 sqlite3.c:9527:25: warning: inline expansion of macro SQLITE_OS_WINRT is not exaustive. assuming 0 for SQLITE_OS_WINRT
-Apr 10, 2013 4:17:42 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:24 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:9758:6: warning: inline expansion of macro SQLITE_OS_UNIX is not exaustive. assuming 0 for SQLITE_OS_UNIX & !SQLITE_MUTEX_NOOP
 sqlite3.c:9758:6: warning: inline expansion of macro SQLITE_OS_UNIX is not exaustive. assuming 0 for SQLITE_OS_UNIX & !SQLITE_MUTEX_NOOP
-Apr 10, 2013 4:17:43 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:25 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:22384:4: warning: inline expansion of macro SQLITE_MALLOC_SOFT_LIMIT is not exaustive. assuming 0 for SQLITE_MALLOC_SOFT_LIMIT
 sqlite3.c:22384:4: warning: inline expansion of macro SQLITE_MALLOC_SOFT_LIMIT is not exaustive. assuming 0 for SQLITE_MALLOC_SOFT_LIMIT
-Apr 10, 2013 4:17:43 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:25 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:22769:4: warning: inline expansion of macro SQLITE_OS_UNIX is not exaustive. assuming 0 for SQLITE_OS_UNIX
 sqlite3.c:22769:4: warning: inline expansion of macro SQLITE_OS_UNIX is not exaustive. assuming 0 for SQLITE_OS_UNIX
-Apr 10, 2013 4:17:45 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:27 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:92928:4: warning: inline expansion of macro SQLITE_ENABLE_LOCKING_STYLE is not exaustive. assuming 0 for SQLITE_ENABLE_LOCKING_STYLE & !SQLITE_OMIT_PAGER_PRAGMAS & !SQLITE_OMIT_PRAGMA
 sqlite3.c:92928:4: warning: inline expansion of macro SQLITE_ENABLE_LOCKING_STYLE is not exaustive. assuming 0 for SQLITE_ENABLE_LOCKING_STYLE & !SQLITE_OMIT_PAGER_PRAGMAS & !SQLITE_OMIT_PRAGMA
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:1:2: warning: Unknown preprocessor directive lexer, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:1:2: warning: Unknown preprocessor directive lexer, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:2:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:2:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:6:2: warning: Unknown preprocessor directive lexer, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:6:2: warning: Unknown preprocessor directive lexer, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:7:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:7:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:10:2: warning: Unknown preprocessor directive lexer, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:10:2: warning: Unknown preprocessor directive lexer, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:11:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:11:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:14:2: warning: Unknown preprocessor directive lexer, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:14:2: warning: Unknown preprocessor directive lexer, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:15:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:15:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:19:2: warning: Unknown preprocessor directive lexer, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:19:2: warning: Unknown preprocessor directive lexer, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:20:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:20:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:24:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:24:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:25:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:25:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:30:2: warning: Unknown preprocessor directive related, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:30:2: warning: Unknown preprocessor directive related, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:35:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:35:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:36:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:36:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:39:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:39:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:40:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:40:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:44:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:44:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:45:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:45:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:49:2: warning: Unknown preprocessor directive several, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:49:2: warning: Unknown preprocessor directive several, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:52:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:52:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:53:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:53:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:56:2: warning: Unknown preprocessor directive type, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:56:2: warning: Unknown preprocessor directive type, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:57:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:57:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:61:2: warning: Unknown preprocessor directive several, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:61:2: warning: Unknown preprocessor directive several, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:62:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:62:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:65:2: warning: Unknown preprocessor directive several, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:65:2: warning: Unknown preprocessor directive several, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:66:2: warning: Unknown preprocessor directive incorrect, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:66:2: warning: Unknown preprocessor directive incorrect, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:67:2: warning: Unknown preprocessor directive Constant, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:67:2: warning: Unknown preprocessor directive Constant, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:68:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:68:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:71:2: warning: Unknown preprocessor directive several, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:71:2: warning: Unknown preprocessor directive several, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:72:2: warning: Unknown preprocessor directive incorrect, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:72:2: warning: Unknown preprocessor directive incorrect, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:73:2: warning: Unknown preprocessor directive sqlite3, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:73:2: warning: Unknown preprocessor directive sqlite3, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:76:2: warning: Unknown preprocessor directive optional, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:76:2: warning: Unknown preprocessor directive optional, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:79:2: warning: Unknown preprocessor directive configuration, skipping line
 /local/joliebig/TypeChef-SQLiteAnalysis/sqlite-amalgamation-3071601/partial_configuration.h:79:2: warning: Unknown preprocessor directive configuration, skipping line
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:410:4: warning: expecting value before token, found boolean expression True instead
 sqlite3.c:410:4: warning: expecting value before token, found boolean expression True instead
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:410:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:419:4: warning: expecting value before token, found boolean expression True instead
 sqlite3.c:419:4: warning: expecting value before token, found boolean expression True instead
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:46 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:28 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
 sqlite3.c:419:4: warning: expecting value before token, found boolean expression False instead
-Apr 10, 2013 4:17:47 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:29 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:9527:25: warning: inline expansion of macro SQLITE_OS_WINRT is not exaustive. assuming 0 for SQLITE_OS_WINRT
 sqlite3.c:9527:25: warning: inline expansion of macro SQLITE_OS_WINRT is not exaustive. assuming 0 for SQLITE_OS_WINRT
-Apr 10, 2013 4:17:47 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:29 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:9758:6: warning: inline expansion of macro SQLITE_OS_UNIX is not exaustive. assuming 0 for SQLITE_OS_UNIX & !SQLITE_MUTEX_NOOP
 sqlite3.c:9758:6: warning: inline expansion of macro SQLITE_OS_UNIX is not exaustive. assuming 0 for SQLITE_OS_UNIX & !SQLITE_MUTEX_NOOP
-Apr 10, 2013 4:17:47 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:29 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:22384:4: warning: inline expansion of macro SQLITE_MALLOC_SOFT_LIMIT is not exaustive. assuming 0 for SQLITE_MALLOC_SOFT_LIMIT
 sqlite3.c:22384:4: warning: inline expansion of macro SQLITE_MALLOC_SOFT_LIMIT is not exaustive. assuming 0 for SQLITE_MALLOC_SOFT_LIMIT
-Apr 10, 2013 4:17:47 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:29 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:22769:4: warning: inline expansion of macro SQLITE_OS_UNIX is not exaustive. assuming 0 for SQLITE_OS_UNIX
 sqlite3.c:22769:4: warning: inline expansion of macro SQLITE_OS_UNIX is not exaustive. assuming 0 for SQLITE_OS_UNIX
-Apr 10, 2013 4:17:49 PM de.fosd.typechef.lexer.PreprocessorListener print
+Apr 10, 2013 4:34:31 PM de.fosd.typechef.lexer.PreprocessorListener print
 WARNING: sqlite3.c:92928:4: warning: inline expansion of macro SQLITE_ENABLE_LOCKING_STYLE is not exaustive. assuming 0 for SQLITE_ENABLE_LOCKING_STYLE & !SQLITE_OMIT_PAGER_PRAGMAS & !SQLITE_OMIT_PRAGMA
 sqlite3.c:92928:4: warning: inline expansion of macro SQLITE_ENABLE_LOCKING_STYLE is not exaustive. assuming 0 for SQLITE_ENABLE_LOCKING_STYLE & !SQLITE_OMIT_PAGER_PRAGMAS & !SQLITE_OMIT_PRAGMA
