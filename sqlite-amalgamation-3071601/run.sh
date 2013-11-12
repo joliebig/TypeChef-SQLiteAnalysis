@@ -25,8 +25,8 @@ outTime="$outBase.time"
 	--featureModelFExpr $ABSPATH/fm.txt \
 	--typeSystemFeatureModelDimacs $ABSPATH/sqlite.dimacs \
 	--include $ABSPATH/partial_configuration.h \
+	--parserstatistics \
 	--writePI \
-	--typecheck \
 	--dumpcfg \
 	$FNAME \
 	2> "$outErr" | tee "$outDbg"
